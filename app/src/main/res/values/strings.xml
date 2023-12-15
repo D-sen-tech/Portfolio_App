@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">Portfolio App</string>
+
+
+    <string name="lorem_text1">Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.</string>
+    <string name="job_name">Mechanical Engineer &amp; Devoloper</string>
+    <string name="lorem_text2">Lorem ipsum dolor sit amet, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.</string>
+    <string name="name">Debargha Sen</string>
+    <string name="current_job_post">Business Development Associate | LearnNex</string>
+    <string name="degree">Mechanocal Engineering Degree</string>
+    <string name="degree_1">Currently pursuing Bachelor of Technology on Mechanical Engineering in Tripura Institute of Technology, Agartala</string>
+    <string name="degree_description">Undergrad Mechanical Engineer with an attitude of learning and executing new stuffs. Computer programming enthusiast with problem solving capability. A highly motivated striver, consistent learner with knowledge in Development and Coding. Former trainee in PIE INFOCOMM and Internshala. A complete and supportive team player. Looking for a position in a company that appreciates hard work, dedication and evolving technical skills.</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="lorem_text3">Lorem Ipsum is simply dummy text of the printing and typesetting industry. when an unknown printer took a galley of type and scrambled it to make a type specimen book.</string>
+    <string name="mechanical_engineer_devoloper"><![CDATA[Mechanical Engineer & Devoloper]]></string>
+
+
+</resources>
